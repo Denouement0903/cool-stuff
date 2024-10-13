@@ -25,3 +25,11 @@ body {
     text-wrap: balance;
   }
 }
+
+.jake {
+  background-image: url('../app/assets/jake.jpg');
+}
+
+.jake:hover {
+  background-image: ('../app/assets/jake.jpg') !important;
+}
