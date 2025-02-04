@@ -33,3 +33,19 @@ body {
 .jake:hover {
   background-image: ('../app/assets/jake.jpg') !important;
 }
+
+.tailung {
+  background-image: url('../app/assets/tailung.jpg');
+}
+
+.tailung:hover {
+  background-image: ('../app/assets/tailung.jpg') !important;
+}
+
+.spongebob {
+  background-image: url('../app/assets/spongebob.jpg');
+}
+
+.spongebob:hover {
+  background-image: ('../app/assets/spongebob.jpg') !important;
+}
